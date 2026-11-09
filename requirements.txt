@@ -1,0 +1,4 @@
+chess
+requests
+numpy
+Flask
